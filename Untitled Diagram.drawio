@@ -1,1 +1,65 @@
-<mxfile host="app.diagrams.net" modified="2021-01-23T11:44:30.811Z" agent="5.0 (Windows)" version="14.2.6" etag="7wrnS8D43AKFsRnx2r2S" type="github"><diagram id="YFy40mua5V9K3bzPLULQ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-23T12:18:03.633Z" agent="5.0 (Windows)" etag="bC1Uogthky-PoPdMVOU8" version="14.2.6" type="github">
+  <diagram id="YFy40mua5V9K3bzPLULQ" name="Page-1">
+    <mxGraphModel dx="1283" dy="1510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="GuEjnsgke67p2RQfyNx--1" value="Untitled Layer" parent="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GuEjnsgke67p2RQfyNx--6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GuEjnsgke67p2RQfyNx--2" target="GuEjnsgke67p2RQfyNx--4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GuEjnsgke67p2RQfyNx--2" value="Начало" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="-10" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GuEjnsgke67p2RQfyNx--7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GuEjnsgke67p2RQfyNx--4" target="GuEjnsgke67p2RQfyNx--5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GuEjnsgke67p2RQfyNx--4" value="&lt;div&gt;Вывод:&lt;/div&gt;&lt;div&gt;Введите &lt;br&gt;&lt;/div&gt;&lt;div&gt;трехзачное число&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="199.5" y="70" width="141" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="GuEjnsgke67p2RQfyNx--19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GuEjnsgke67p2RQfyNx--5" target="GuEjnsgke67p2RQfyNx--16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GuEjnsgke67p2RQfyNx--5" value="а" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="234.75" y="160" width="70.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GuEjnsgke67p2RQfyNx--13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GuEjnsgke67p2RQfyNx--9" target="GuEjnsgke67p2RQfyNx--12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GuEjnsgke67p2RQfyNx--9" value="&lt;div&gt;s=b1+b2+b3&lt;/div&gt;&lt;div&gt;m=b1*b2*b3&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GuEjnsgke67p2RQfyNx--15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GuEjnsgke67p2RQfyNx--12" target="GuEjnsgke67p2RQfyNx--14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GuEjnsgke67p2RQfyNx--12" value="&lt;div&gt;Выаод:&lt;/div&gt;&lt;div&gt;сумма цифр числа =&lt;/div&gt;&lt;div&gt;s&lt;/div&gt;&lt;div&gt;произведение цифр =&lt;/div&gt;&lt;div&gt;m&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="530" width="160.5" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="GuEjnsgke67p2RQfyNx--14" value="Конец" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="199.5" y="720" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GuEjnsgke67p2RQfyNx--20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GuEjnsgke67p2RQfyNx--16" target="GuEjnsgke67p2RQfyNx--17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GuEjnsgke67p2RQfyNx--16" value="b1 = a%10" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GuEjnsgke67p2RQfyNx--21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GuEjnsgke67p2RQfyNx--17" target="GuEjnsgke67p2RQfyNx--18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GuEjnsgke67p2RQfyNx--17" value="b2 = a%100//10" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="290" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GuEjnsgke67p2RQfyNx--22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GuEjnsgke67p2RQfyNx--18" target="GuEjnsgke67p2RQfyNx--9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GuEjnsgke67p2RQfyNx--18" value="b3=//100" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="374" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GuEjnsgke67p2RQfyNx--23" value="&lt;div&gt;% - остаток от деления&lt;/div&gt;&lt;div&gt;// - целочисленное деление&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="220" width="130" height="170" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
