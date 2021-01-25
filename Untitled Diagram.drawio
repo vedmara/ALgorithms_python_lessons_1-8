@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-25T21:43:24.537Z" agent="5.0 (Windows)" etag="Ut6IuukE_DkMCCbwMhSH" version="14.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-25T21:43:56.622Z" agent="5.0 (Windows)" etag="JcDPxr1f3KTUKC3sdEUH" version="14.2.6" type="github">
   <diagram id="_irGdxpFTY3a5YnYYWGz" name="Page-1">
     <mxGraphModel dx="906" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
@@ -366,9 +366,6 @@
         </mxCell>
         <mxCell id="C216Op_KJReps2qyOfGw-131" value="да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="C216Op_KJReps2qyOfGw-116">
           <mxGeometry x="315" y="360" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="C216Op_KJReps2qyOfGw-132" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="C216Op_KJReps2qyOfGw-116">
-          <mxGeometry x="270" y="350" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="C216Op_KJReps2qyOfGw-133" value="нет" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="C216Op_KJReps2qyOfGw-116">
           <mxGeometry x="230" y="450" width="40" height="20" as="geometry" />
