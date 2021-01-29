@@ -1,8 +1,8 @@
 import random
 
 SIZE = 10
-MIN_ITEM = -100
-MAX_ITEM = 100
+MIN_ITEM = -1000
+MAX_ITEM = 1000
 array = [random.randint(MIN_ITEM, MAX_ITEM) for _ in range(SIZE)]
 print(array)
 
