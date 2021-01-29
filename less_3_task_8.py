@@ -1,5 +1,5 @@
-M = 4
-N = 5
+M = 5
+N = 4
 array = [[], [], [], []]
 
 for i in range(N):
