@@ -35,7 +35,7 @@ cProfile.run('changes(array)')
 #        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
 #        2    0.001    0.001    0.001    0.001 {method 'index' of 'list' objects}
 
-    
+#Большая часть ресурсов расходуется для встроенных методов    
 
 
 

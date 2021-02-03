@@ -20,9 +20,9 @@ def eratosfen(n):
         i += 1
 
     a = set(a)
-    #a.remove(0)
+    
     return a
-#print(eratosfen(100))
+
 
 num = 1
 while num < 1000:

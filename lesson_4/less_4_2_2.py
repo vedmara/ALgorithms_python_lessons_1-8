@@ -1,7 +1,6 @@
 import random
 import timeit
 import cProfile
-import math
 
 def primes(num):
     a=[2]
@@ -17,7 +16,6 @@ def primes(num):
 	    else:
 		    a.append(i)
     return a
-
 
 num = 1
 while num < 10000:

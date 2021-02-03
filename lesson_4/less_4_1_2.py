@@ -37,3 +37,5 @@ cProfile.run('changes(array)')
  #       1    0.000    0.000    0.008    0.008 {built-in method builtins.exec}
  #       2    0.000    0.000    0.000    0.000 {built-in method builtins.len}
  #       1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+ # основное время уходит на работу функции
