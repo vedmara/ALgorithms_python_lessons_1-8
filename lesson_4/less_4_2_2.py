@@ -21,7 +21,7 @@ def primes(n):
 #print(primes(1000))
 
 num = 1
-while num < 1000:
+while num < 10000:
     num *= 5
     t = timeit.timeit('primes(num)', number = 1000, globals=globals())
     print(f"{num=}\t\t{t/num=}")
