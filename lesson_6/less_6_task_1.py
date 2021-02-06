@@ -10,7 +10,6 @@
 import sys
 
 mem = 0
-
 n = int(input('Введите число:'))
 
 mem = mem + sys.getsizeof(n)

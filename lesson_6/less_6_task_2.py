@@ -13,6 +13,7 @@ while n > 0:
     n = n // 10
     
 mem = mem + sys.getsizeof(a) + sys.getsizeof(''.join(map(str, a)))
+
 print('Обратное число:',''.join(map(str, a)))
 print("В программе задействовано байт памяти:", mem)
 
