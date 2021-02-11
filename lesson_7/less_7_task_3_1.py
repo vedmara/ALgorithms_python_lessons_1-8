@@ -1,4 +1,5 @@
 #Массив размером 2m + 1, где m — натуральное число, заполнен случайным образом. Найдите в массиве медиану. 
+#Поиск медианы с сортировкой методом "расчёстка"
 
 import random
 
@@ -19,11 +20,10 @@ def myMedian(data):
             if data[i] > data[j]:
                 data[i], data[j] = data[j], data[i]
                 flag = True
-    print(data)
-    midl = len(data) // 2
+    #print(data)
     
-    if data[midl - 1] <= data[midl + 1]:
-        print(data[midl])
+    midl = len(data) // 2
+    print(data[midl])
         
 
 array = [random.randint(MIN_ITEM, MAX_ITEM) for a in range(SIZE)]
